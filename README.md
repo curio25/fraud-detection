@@ -1,3 +1,5 @@
+# Fraud Detection MAP (Modelling, Analytics, Pipelines)
+
 Fraud detection is a critical process used to identify and prevent fraudulent activities, especially in financial transactions, insurance claims, and other industries where trust and security are paramount. The goal of fraud detection is to distinguish legitimate transactions or activities from fraudulent ones as accurately and quickly as possible.
 
 ### Key Concepts in Fraud Detection
