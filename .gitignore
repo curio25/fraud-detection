@@ -162,6 +162,9 @@ cython_debug/
 #.idea/
 
 
+#Kaggle
+./kaggle.json
+
 #Datasets
 analytics/datasets
 analytics/kaggle.json
